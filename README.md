@@ -10,7 +10,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://rating-component-xi.vercel.app/)
 
 ## My process
 
